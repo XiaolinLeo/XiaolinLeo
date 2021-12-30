@@ -1,9 +1,15 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats-taupe-phi.vercel.app/api?username=XiaolinLeo&count_private=true&show_icons=true)
+- Lifelong Learning.
+- 🌱 I’m currently learning `K8s` and review `C`
+
+### 共勉
+-    你不可能将未来的片断串连起来。你只能在回顾的时候将点点滴滴串连起来。所以你必须相信这些片断会以某种方式在未来的某一天串连起来。你必须要相信某些东西：你的勇气、命运、生命、因缘，随便是什么。这种方法从来没有令我失望，只是让我的生命更加地与众不同。
+
+
 <!--
 **XiaolinLeo/XiaolinLeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
