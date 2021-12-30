@@ -1,7 +1,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats-taupe-phi.vercel.app/api?username=XiaolinLeo&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats-taupe-phi.vercel.app/api/top-langs/?username=XiaolinLeo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-taupe-phi.vercel.app/api/top-langs/?username=XiaolinLeo&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **XiaolinLeo/XiaolinLeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
