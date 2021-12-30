@@ -1,6 +1,6 @@
 
 
-![Anurag's GitHub stats](https://github-readme-stats-taupe-phi.vercel.app/api?username=XiaolinLeo&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats-taupe-phi.vercel.app/api?username=XiaolinLeo&count_private=true&show_icons=true)
 
 <!--
 **XiaolinLeo/XiaolinLeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
