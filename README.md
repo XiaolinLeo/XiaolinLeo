@@ -2,7 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-taupe-phi.vercel.app/api?username=XiaolinLeo&count_private=true&show_icons=true)
 - Lifelong Learning.
-- 🌱 I’m currently learning `K8s` and review `C`
 
 
 
